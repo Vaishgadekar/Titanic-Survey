@@ -59,10 +59,17 @@ Age and family size (SibSp + Parch) played a significant role in survival rates.
 The dataset provides a fascinating opportunity to explore the impact of social class, gender, and family relationships on survival during a disaster.
 
 **Technologies Used**
+
 Python: The primary programming language for data analysis.
+
 pandas: Data manipulation and analysis.
+
 numpy: Numerical computing and handling of missing values.
+
 matplotlib: Static plotting library for visualizations.
+
 seaborn: Advanced statistical data visualization.
+
 plotly: Interactive visualizations (optional).
+
 scipy: Statistical analysis and tests
