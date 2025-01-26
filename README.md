@@ -1,4 +1,4 @@
-Titanic Survey EDA: Exploratory Data Analysis on Titanic Dataset
+# Titanic Survey EDA: Exploratory Data Analysis on Titanic Dataset
 This repository contains a comprehensive Exploratory Data Analysis (EDA) project focused on the Titanic dataset, one of the most popular datasets for data science projects. The dataset records information about passengers aboard the RMS Titanic, which sank on its maiden voyage in 1912. The main objective of this analysis is to investigate patterns, identify significant features, and draw conclusions about the factors that may have influenced survival chances on the Titanic.
 
 The Titanic dataset consists of both numerical and categorical data about passengers, such as age, sex, passenger class, embarkation port, and more. Through this project, the goal is to perform an in-depth analysis to uncover insights and trends that can explain how various passenger attributes relate to their likelihood of survival.
