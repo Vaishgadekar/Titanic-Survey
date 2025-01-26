@@ -3,13 +3,15 @@ This repository contains a comprehensive Exploratory Data Analysis (EDA) project
 
 The Titanic dataset consists of both numerical and categorical data about passengers, such as age, sex, passenger class, embarkation port, and more. Through this project, the goal is to perform an in-depth analysis to uncover insights and trends that can explain how various passenger attributes relate to their likelihood of survival.
 
-Project Objectives
-Data Cleaning and Preprocessing: Handle missing data, outliers, and ensure the dataset is in a usable format for analysis.
+## Project Objectives
+
+**Data Cleaning and Preprocessing:** Handle missing data, outliers, and ensure the dataset is in a usable format for analysis.
 Exploratory Data Analysis (EDA): Use various statistical and graphical techniques to explore the relationships between different features and survival outcomes.
-Data Visualization: Employ advanced visualization libraries to better understand trends, distributions, and correlations in the data.
+**Data Visualization:** Employ advanced visualization libraries to better understand trends, distributions, and correlations in the data.
 Insight Generation: Draw actionable insights from the analysis that highlight significant predictors of survival.
-Feature Engineering: Explore how to transform and create new features that could improve prediction models (for example, categorizing age groups or grouping similar passenger classes).
-Datasets
+**Feature Engineering:** Explore how to transform and create new features that could improve prediction models (for example, categorizing age groups or grouping similar passenger classes).
+
+# Datasets
 The primary dataset used in this project is the Titanic Passenger dataset, which contains the following columns:
 
 PassengerId: Unique identifier for each passenger.
